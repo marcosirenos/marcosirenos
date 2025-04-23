@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
-<h3 align="center">A data science aspirant from Brazil</h3>
+<h3 align="center">A data science enthusiast from Brazil</h3>
 
 - 🔭 I’m currently interning at **SLB OneSubsea**
 
